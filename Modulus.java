@@ -1,5 +1,5 @@
 Class Modulus{
-	public static long modulus(int a, int b){
+	public static double modulus(int a, int b){
 		return a/b;
 	}
 }
